@@ -8,7 +8,7 @@
 관련설명    
    https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser     
 
-   
+I love :coffee: :pizza: and :tea:     
    https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository   
 
 Theme 관련부분  
