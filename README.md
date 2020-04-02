@@ -2,7 +2,7 @@
 
 * Setting->GitHub Pages 설정
 * index.html 추가 (docs directory or main) 
-* theme 변경 
+* theme 변경 (_config.yml)
 
 
 관련설명    
