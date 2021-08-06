@@ -16,8 +16,8 @@
       
    https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll    
 
-* 지원되는 Theme 과 관련 사이트들 
-   https://pages.github.com/themes/   
+* 지원되는 Theme 과 관련 사이트들   
+   https://pages.github.com/themes/      
    https://github.com/pages-themes   
 
 ## Markdown Icon (추후 사용해보기)
