@@ -13,7 +13,7 @@
 I love :coffee: :pizza: and :tea:     
    https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository   
 
-* Theme 관련부분
+* Theme 관련부분   
    https://pages.github.com/themes/   
    https://github.com/pages-themes   
    
