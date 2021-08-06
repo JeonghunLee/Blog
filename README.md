@@ -8,7 +8,7 @@
   * Web: https://jeonghunlee.github.io/blog/
 
 ## IMAGE TEST
-   ![lena ](images/lena.png)
+   ![lena ](docs/images/lena.png)
    
 ## Github Page Site 관련설명 (Theme 설정가능)     
    https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser   
