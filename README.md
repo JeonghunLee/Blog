@@ -4,7 +4,7 @@
 * index.html 추가 (docs directory or main) 
 * theme 변경 (_config.yml)
 
-* 최종기본테스트   
+* 최종기본테스트   (현재 Theme 부분에러로 index.html로 진행)
   * Web: https://jeonghunlee.github.io/blog/
 
 ## IMAGE TEST
