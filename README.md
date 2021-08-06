@@ -6,6 +6,7 @@
 
 * 최종기본테스트   (현재 Theme 부분에러로 index.html로 진행)
   * Web: https://jeonghunlee.github.io/blog/
+  * 추후 Google google analytics 부분 수정 
 
 ## IMAGE TEST
    ![lena ](docs/images/lena.png)
