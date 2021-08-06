@@ -5,8 +5,8 @@
 * theme 변경 (_config.yml)
 
 
-관련설명    
-   https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser
+# Github Page Site 관련설명 (Theme 설정가능)     
+   https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser   
    https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll    
 
 Markdown Icon 
